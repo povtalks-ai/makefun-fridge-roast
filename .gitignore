@@ -1,0 +1,7 @@
+*.key
+*.pem
+*keypair*
+wallet.json
+__pycache__/
+*.pyc
+/output/
